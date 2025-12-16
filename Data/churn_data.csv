@@ -1,0 +1,11 @@
+Age,MonthlyCharges,Tenure,Gender,Contract,Churn
+25,50,12,Male,Month-to-month,Yes
+45,70,24,Female,One year,No
+30,90,6,Male,Month-to-month,Yes
+50,40,48,Female,Two year,No
+35,60,18,Male,One year,No
+28,85,9,Female,Month-to-month,Yes
+60,30,60,Male,Two year,No
+40,75,30,Female,One year,No
+22,95,3,Male,Month-to-month,Yes
+55,45,54,Female,Two year,No
